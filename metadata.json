@@ -1,0 +1,8 @@
+{
+  "name": "Parlour Wali",
+  "description": "Find nearby beauty parlours, salons, and spas instantly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
